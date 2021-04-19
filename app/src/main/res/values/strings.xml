@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recyclerview_withMultipleViewTypes_Example</string>
+    <string name="view_1_textview">View 1 TextView</string>
+</resources>
